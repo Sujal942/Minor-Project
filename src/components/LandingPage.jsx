@@ -8,7 +8,7 @@ const LandingPage = () => {
       <section className="bg-gradient-to-tr from-indigo-700 via-black to-gray-500 text-white">
         <div className="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:h-screen lg:items-center">
           <div className="mx-auto max-w-3xl text-center">
-            <h1 className="bg-gradient-to-r from-yellow-400 via-orange-400 to-red-700 bg-clip-text text-3xl font-extrabold text-transparent sm:text-5xl">
+            <h1 className="bg-gradient-to-r from-yellow-500 via-orange-200 to-red-500 bg-clip-text text-3xl font-extrabold text-transparent sm:text-5xl">
               Effortless File Sharing.
               <span className="sm:block"> Fast, Secure, and Simple. </span>
             </h1>
