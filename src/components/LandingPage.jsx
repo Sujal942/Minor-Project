@@ -3,11 +3,12 @@ import { Link } from "react-router-dom";
 
 const LandingPage = () => {
   return (
+    // blue-800
     <div>
-      <section className="bg-gradient-to-r from-indigo-900 via-blue-800  text-white">
+      <section className="bg-gradient-to-tr from-indigo-700 via-black to-gray-500 text-white">
         <div className="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:h-screen lg:items-center">
           <div className="mx-auto max-w-3xl text-center">
-            <h1 className="bg-gradient-to-r from-yellow-400 via-orange-500 to-red-600 bg-clip-text text-3xl font-extrabold text-transparent sm:text-5xl">
+            <h1 className="bg-gradient-to-r from-yellow-400 via-orange-400 to-red-700 bg-clip-text text-3xl font-extrabold text-transparent sm:text-5xl">
               Effortless File Sharing.
               <span className="sm:block"> Fast, Secure, and Simple. </span>
             </h1>
